@@ -1,0 +1,239 @@
+#global-body li.folders-button {
+    margin-bottom: 10px !important;
+    padding-left: 8px;
+}
+#global-body div#bmj_col_3_top ul li.register-button, #global-body div#bmj_col_3_top ul li.twitter-button, #global-body div#bmj_col_3_top ul li.facebook-button {
+    margin-bottom: 0 !important;
+    padding-bottom: 0;
+    padding-left: 0;
+}
+#content #col-2 div.open-access-note {
+    display: none;
+}
+#col-2 {
+    background-color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+    width: 268px;
+}
+#col-2 div {
+    margin: 0;
+    padding: 0;
+}
+#col-3 {
+    background: none repeat scroll 0 0 transparent;
+    width: 170px;
+}
+#col-3 div {
+    margin: 0;
+    padding: 0;
+}
+#content #col-2 #sub-body {
+    float: left;
+    position: relative;
+}
+#col-2 div.cb-section {
+    background: none repeat scroll 0 0 #F9F6EE;
+    border: 0 none;
+    margin-bottom: 0;
+    padding: 5px;
+}
+#content h3.cb-contents-header {
+    background: none repeat scroll 0 0 #E6DCBD;
+    border: 1px solid #E6DCBD;
+    font-family: arial,sans-serif;
+    font-size: 1.2em;
+    font-size-adjust: none;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: normal;
+    margin-bottom: 2px;
+    margin-top: 0;
+    padding-left: 5px;
+}
+#col-2 div.cb-contents {
+    background-color: #F9F6EE;
+    border: 1px solid #E6DCBD;
+    margin: 0;
+    padding: 0 0 5px;
+}
+#col-2 div.cb-section ol {
+    margin-bottom: 0;
+    margin-top: 0;
+    padding: 0;
+}
+div.content-box .cb-section .cb-versions .current-version {
+    font-style: normal;
+    font-weight: normal;
+}
+#col-2 div.content-box {
+    background-color: #F9F6EE;
+    border: 0 none;
+    font-size: 1.1em;
+    line-height: 1;
+    margin: 0 0 1em;
+    padding: 0;
+}
+#col-2 div.cb-section {
+    margin: 0;
+}
+#col-2 .content-box h4 {
+    background-color: transparent;
+    border-bottom: 1px solid #B9C28D;
+    font-family: arial,sans-serif;
+    font-size: 1.2em;
+    font-size-adjust: none;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    height: 1.4em;
+    line-height: normal;
+    margin-bottom: 2px;
+    margin-top: 5px;
+    padding: 0.3em 0 0.3em 9px;
+}
+#content div.cb-contents ol li #cme-icon img {
+    padding-left: 5px;
+    vertical-align: middle;
+}
+#content div.cb-contents ol li, #content div.cb-contents ul li {
+    background: url("http://eso-cdn.resources.bmj.com/repository/images/bullet-group.gif") no-repeat scroll left top transparent;
+    font-family: Arial,Sans Serif;
+    font-size: 1.2em;
+    line-height: 1.6em;
+    padding-left: 15px;
+}
+#content #col-2 .content-box h4 {
+    border-bottom: 0 none;
+    font-family: arial,sans-serif;
+    font-size: 1.2em;
+    font-size-adjust: none;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    line-height: normal;
+    margin-bottom: 2px;
+    margin-top: 0;
+    padding: 0;
+}
+div.row div.cb-contents {
+    background: none repeat scroll 0 0 transparent;
+}
+#col-2 a.prev-results-link, #col-2 a.next-results-link, div.content-box div.cb-section .notice a, div.content-box div.cb-section a.pdf-direct-link {
+    background-color: transparent;
+}
+#col-2 span.search-link, #col-2 a.prev-results-link, #col-2 a.next-results-link {
+    font-size: 1.2em;
+}
+#col-2 #sub-body .search-nav {
+    background-color: #F9F6EE;
+    border: 1px solid #E6DCBD;
+    font-size: 1em;
+    margin-left: 0;
+}
+#col-2 div.sidebar {
+    background-color: #F9F6EE;
+    border: 1px solid #E6DCBD;
+    font-size: 0.9em;
+    margin: 10px 0 5px;
+    padding: 5px 10px;
+}
+#col-2 div.sidebar h4, #col-2 div.search-nav h4 {
+    display: block;
+    font-size: 1.6em;
+    font-weight: bold;
+    margin: 0;
+}
+#col-2 div.sidebar h2, #col-2 div.search-nav h2 {
+    font-size: 1.4em;
+}
+#content #col-2 div.sidebar ul li {
+    background: url("http://eso-cdn.resources.bmj.com/repository/images/bullet-group.gif") no-repeat scroll left top transparent;
+    padding-left: 15px;
+}
+#col-2 div.sidebar-qs {
+    background-color: #E6DCBD;
+    border: 1px solid #E6DCBD;
+    font-size: 88%;
+    margin: 0 0 5px;
+    padding: 5px;
+}
+#col-2 .toc-navigation .toc-links li, #col-2 .toc-navigation .data-supp-links li, #col-2 .this-issue .toc-links li {
+    font-size: 1em;
+}
+#col-2 div.pap-view {
+    font-size: 1.2em;
+    padding: 5px;
+}
+#col-2 .toc-navigation ol.issue-sections, #col-2 .toc-navigation ol.issue-sections li, #col-2 div#cb-art-svcs ol, #col-2 div#cb-art-cit ol, #col-2 div#cb-art-gs ol, #col-2 div#cb-art-pm ol, #col-2 div#cb-art-rel ol {
+    list-style: none outside none;
+}
+#col-2 div.cb-section ol.version-list li {
+    background: none repeat scroll 0 0 transparent;
+    font-size: 1em;
+    padding-left: 0;
+}
+#content div.cb-contents ol li.cb-versions {
+    background: none repeat scroll 0 0 transparent;
+    padding-left: 5px;
+}
+#col-2 .toc-navigation cite, #col-2 .this-issue cite {
+    font-size: 1em;
+}
+#global-body div.bmjjournals {
+    background: none repeat scroll 0 0 #F4F4F4;
+    border-bottom: 1px solid #8EB0D5;
+    border-left: 1px solid #8EB0D5;
+    border-top: 3px solid #8EB0D5;
+    margin: 0 0 0 10px !important;
+}
+#global-body div.careerswidget {
+    background: none repeat scroll 0 0 #8EB0D5;
+    border-bottom: 1px solid #8EB0D5;
+    border-left: 1px solid #8EB0D5;
+    border-top: 3px solid #8EB0D5;
+    margin: 0;
+    text-align: right;
+}
+#global-body div.careerswidget a:link {
+    color: #000000;
+    font-weight: bold;
+}
+#global-body div.careerswidget a:visited {
+    color: #000000;
+}
+#global-body div.careerswidget a:hover {
+    color: #FF00FF;
+}
+#content div.cb-contents ol li li, #content div.cb-contents ul li li {
+    background: none repeat scroll 0 0 transparent;
+    font-family: Arial,Sans Serif;
+    font-size: 1em;
+    line-height: 1.6em;
+    padding-left: 0;
+}
+#col-2 div.sidebar form {
+    margin: 0.5em;
+}
+#col-2 div.article-nav {
+    background-color: #F9F6EE;
+    border: 1px solid #E6DCBD;
+    font-size: 1.1em;
+    margin: 0;
+    padding: 5px;
+}
+#col-2-modify-search-results td {
+    font-size: 1.2em;
+    padding-right: 3px;
+}
+#pageid-login #col-2 #cb-art-rel {
+    display: none;
+}
+
+#col-2 div#docked-nav div.cb-section {
+border-left:1pt solid #E6DCBD;
+}

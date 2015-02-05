@@ -1,0 +1,62 @@
+/* Header */
+#header {
+  background: url(/site/icons/header-background.gif) no-repeat scroll 0 0 !important;
+}
+
+/* Search */
+#main-search{
+  margin-top:13px;
+}
+#main-search a:link, #main-search a:visited, #main-search a:hover, #main-search a:active {
+  border-width:0!important;
+  color:#fff !important;
+  background:none!important;
+}
+ #main-search a:hover {
+  color:#f0f!important;
+}
+
+#main-nav li {
+  width:auto;
+  border-right:1px solid #DACB9E;
+  border-bottom:1px solid #DACB9E;
+  }
+#main-nav li#main-nav-current-issue a, #main-nav li#main-nav-archive a, #main-nav li#main-nav-browsebytopic a, #main-nav li#main-nav-about a, #main-nav li#main-nav-submit a, #main-nav li#main-nav-help a, #main-nav li#main-nav-jobs a{
+  width:130px;
+  border:none;
+  }
+#main-nav li#main-nav-jobs a {width: 80px;}
+#main-nav li#main-nav-help { width:auto; border-right:none;}
+#main-nav li#main-nav-help a { width:71px; }
+#main-nav-browsebytopic a {background-color: #F9F6EE; border-bottom: 1px solid #E6DCBD; border-right: 1px solid #E6DCBD;}
+#main-nav-browsebytopic.active a { background-color: #FBFAF5; background-image: none !important; border-bottom: 1px solid #FBFAF5;}
+#main-nav-browsebytopic a:hover { background-color: #E6DCBD; color:#000000; }
+
+div.current-issue-info { height:205px; }
+div.publication-description { height:205px; }
+#pageid-home div.color-background {
+  height:215px !important;
+  background: none repeat-x scroll left top #f8f5ec !important;
+}
+
+div.col-left h1.journal { background-image: none; background-color:#2a6ebb; }
+div.col-middle h1.journal { background-image: none; background-color:#2a6ebb; }
+div.col-right h1.journal { background-image:none; background-color:#2a6ebb; }
+}
+h1.journal{line-height:.96em!important;}
+
+#main-body #content-block .article ul {
+  list-style:disc inside !important;
+}
+
+#main-body #content-block .article ol {
+  list-style:decimal outside !important;
+}
+
+/* THIRD COLUMN ICONS */
+div#rh-column-icons ul.icons-row li#googleplus a span {
+  background-image: url("http://journals.bmj.com/site/images/icon-google-plus.jpg");
+}
+div#rh-column-icons ul.icons-row li#youtube a span {
+  background-image: url("http://journals.bmj.com/site/images/icon-youtube.jpg");
+}

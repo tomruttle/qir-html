@@ -1,0 +1,2191 @@
+@import url("hw-publisher-sidebars.css");
+
+#logo {
+	width:515px;
+}
+#header {
+	background:url(/site/icons/header-background.jpg) no-repeat scroll 0 0;
+	height:auto;
+	margin:0 auto;
+}
+
+#mast-head {
+padding:0;
+}
+/* MAIN NAVIGATION */
+
+
+#main-search p {
+	font-size:1.1em;
+	margin:0;
+	padding:0;
+	text-align:right;
+	font-weight:bold;
+}
+#main-search a:link {
+	color: #000000 !important;
+}
+#main-search a:visited {
+	color: #000000 !important;
+}
+#main-search a:hover {
+	color: #FF00FF !important;
+}
+
+/* LINK STYLING */
+div.hw-gen-page a:link {
+	color:#0066CC;
+	text-decoration: none;
+}
+div.hw-gen-page a:visited {
+	color:#0066CC;
+	text-decoration: none;
+}
+div.hw-gen-page a:hover {
+	color:#f0f;
+	text-decoration: none;
+	border-bottom:none;
+}
+div.hw-gen-page a:active {
+	color:#0066CC;
+	text-decoration: none;
+}
+/* ADDITIONAL CONTENT STYLING */
+
+#block1 {
+float:left;
+width:808px;
+}
+
+#register {
+	-x-system-font:none;
+	background:transparent url(http://eso-cdn.resources.bmj.com/repository/images/bg-horizontal-dotted.gif) repeat-x scroll left bottom;
+	font-family:arial, sans-serif;
+	font-size:1.1em;
+	font-size-adjust:none;
+	font-stretch:normal;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:normal;
+	margin-bottom:5px;
+	padding-bottom:5px;
+}
+#society-members {
+	-x-system-font:none;
+	font-family:arial, sans-serif;
+	font-size:1.1em;
+	font-size-adjust:none;
+	font-stretch:normal;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:normal;
+	margin-bottom:5px;
+	padding-bottom:5px;
+}
+#access {
+	-x-system-font:none;
+	font-family:arial, sans-serif;
+	font-size:1.1em;
+	font-size-adjust:none;
+	font-stretch:normal;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:normal;
+}
+#status {
+	background:none;
+	border-bottom:none;
+	border-top:none;
+	float:right;
+	line-height:1.4em;
+	margin-bottom:10px;
+	margin-top:5px;
+	padding-bottom:5px;
+	padding-top:5px;
+	width:162px;
+}
+#status #background {
+	background:#E4E4E4 none repeat scroll 0% 0%;
+	border-bottom:5px solid #CCCCCC;
+	border-top:5px solid #CCCCCC;
+	float:right;
+	line-height:1.4em;
+	margin-bottom:10px;
+	margin-top:5px;
+	padding-bottom:5px;
+	padding-top:5px;
+	width:162px;
+}
+.side-panel-box {
+	background:#F9F6EE none repeat scroll 0 0;
+	border:1px solid #E6DCBD;
+	padding:10px;
+	margin-bottom: 10px;
+}
+/* BUTTONS STYLING */
+
+
+div.button a.shibboleth {
+	background:white url(http://eso-cdn.resources.bmj.com/repository/images/icon-shibboleth.gif) repeat-y scroll right center;
+	border:1px solid #000 !important;
+	color:#000 !important;
+	margin-bottom: 3px;
+}
+div.button a.athens {
+	width: 115px;
+}
+#status div.shibboleth {
+	background:transparent url(http://eso-cdn.resources.bmj.com/repository/images/bg-horizontal-dotted.gif) repeat-x scroll left top;
+	margin-top:5px;
+	padding-top:5px;
+}
+#status div.athens {
+	background:transparent url(http://eso-cdn.resources.bmj.com/repository/images/bg-horizontal-dotted.gif) repeat-x scroll left bottom;
+	margin-bottom:5px;
+	padding-bottom:5px;
+}
+#status div.referrers {
+	-x-system-font:none;
+	font-family:arial, sans-serif;
+	font-size:1.1em;
+	font-size-adjust:none;
+	font-stretch:normal;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:normal;
+	padding-top: 4px;
+	clear:both;
+}
+#status div.user {
+	-x-system-font:none;
+	font-family:arial, sans-serif;
+	font-size:1.1em;
+	font-size-adjust:none;
+	font-stretch:normal;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:normal;
+	padding-bottom: 4px;
+	clear:both;
+}
+.username {
+	font-weight:bold;
+}
+#social-bookmarking ul li {
+	display:inline;
+	background:none !important;
+}
+
+#content .body-text-box .st_two {
+	font-size:1.2em;
+}
+#content .st_two {
+	font-size:1.2em;
+	font-weight:bold;
+}
+#article-nav-header {
+	background:#E6DCBD;
+	border:1px solid #E6DCBD;
+	padding-left:5px;
+}
+#article-nav-header h3 {
+	margin-top: 5px;
+}
+#article-nav-body {
+	background:#F9F6EE;
+	border:1px solid #E6DCBD;
+	padding:5px;
+	margin-bottom:10px;
+}
+/* Jez's Styles */
+
+#content div.top {
+	float:right;
+	font-size:1.1em;
+	font-weight:bold;
+	margin-right:10px;
+	margin-top:-20px;
+	background:transparent url(/site/icons/back.gif) no-repeat 0 3px;
+}
+#content div.top a {
+	display:block;
+	width:16px;
+}
+#content div.top span {
+	margin-left:-9999px
+}
+#content strong.free {
+	color:#f0f;
+}
+#content li.dropdown {
+	background-image:url(/site/icons/down.gif);
+	background-position:0 3px;
+}
+/* TABLES */
+#content table.default {
+	width:100%;
+	border-collapse: collapse;
+	margin:10px 0;
+}
+#content table.default caption {
+	display:none;
+}
+#content table.default tr {
+	border-spacing:10px;
+}
+#content table.default th {
+	padding:5px;
+	color:#777;
+	font-size:1.2em;
+	text-align:left;
+	border-bottom:1px solid #000;
+}
+#content table.default td {
+	padding:5px;
+	font-size:1.2em;
+	vertical-align:top;
+}
+#content table.default td {
+	padding:5px;
+	font-size:1.2em;
+	vertical-align:top;
+}
+#content table.default ul {
+	margin:0 !important;
+}
+#content table.default li {
+	font-size:1em !important;
+}
+#content table.default p {
+	font-size:1em !important;
+}
+#content dl.collections dd {
+	font-size:1em;
+}
+
+/* New Styles for H2O */
+
+
+#related {
+	background: #EEEEEE;
+	padding: 0px 5px 3px 5px;
+}
+#toc ul.jumplinks {
+	margin-left:120px;
+}
+#toc .cover {
+	float:left;
+	text-align:center;
+}
+#toc .tocarticletitle {
+	font-weight:bold;
+}
+div.search-toc {
+	background-color:#EEEEEE;
+	border: 1px solid #DFDFDF;
+	padding-left: 5px;
+	padding-bottom: 5px;
+}
+div.extract-box {
+	background-color:#EEEEEE;
+	border: 1px solid #DFDFDF;
+	padding: 10px 10px 0px 10px;
+	text-align:center;
+	width:90%;
+}
+div.extract-box p {
+	font-weight: bold !important;
+}
+#content blockquote.box {
+	border:1px dotted #BFBFBF;
+}
+#content blockquote.box {
+	float:right;
+	margin:0 0 10px 10px;
+	padding: 5px 5px 0px 5px;
+	width:180px !important;
+}
+#content blockquote.box p.quote {
+	margin:10px;
+	font-size: 0.9em;
+}
+#content div.box p {
+	font-size:110%;
+	line-height:190%;
+	margin:0 0 1em;
+}
+#content #content-block div.abstract {
+	background: #EEEEEE;
+	padding: 5px !important;
+	margin-bottom: 0;
+}
+div.table-summary {
+	text-align:left;
+	padding: 3px 0px;
+}
+div.corrections {
+	display:block;
+	background-color:#FCEFEF;
+	border: 1px solid #EB1D3C;
+	padding: 0px 3px 8px 3px;
+	margin-bottom: 5px;
+}
+ #related dl {
+font-size: 1.2em;
+font-family:Arial, Helvetica, sans-serif;
+}
+
+body {
+font-size:100%;
+}
+
+div.hw-gen-page {
+color:#333333;
+font-family:Arial,sans-serif;
+font-size:62.5%;
+font-size-adjust:none;
+font-stretch:normal;
+font-style:normal;
+font-variant:normal;
+font-weight:normal;
+height:100%;
+line-height:normal;
+margin:0;
+padding:0;
+width:100%;
+}
+
+li, dd {
+margin-left:0;
+}
+#content-block {
+padding:0;
+width:520px;
+}
+
+#logo {
+padding:0 !important;
+width:515px;
+}
+
+#main-nav ul {
+background-color:#F9F6EE;
+}
+#main-nav-wrap {
+background-color:#F9F6EE;
+border-top:1px solid #E6DCBD;
+}
+#main-nav a {
+color:#000000;
+}
+#main-nav-7-days a {
+background-color:#F9F6EE;
+border-bottom:1px solid #E6DCBD;
+border-right:1px solid #E6DCBD;
+width:129px;
+}
+#main-nav-7-days.active a {
+background-color:#FFFFFF;
+border-bottom:1px solid #FFFFFF;
+border-top:medium none #E6DCBD;
+color:#000000;
+}
+#main-nav-7-days a:hover {
+background-color:#E6DCBD;
+color:#000000;
+}
+#main-nav-7-days.active a:hover {
+background-color:#FFFFFF;
+}
+#main-nav-current-issue a {
+background-color:#F9F6EE;
+border-bottom:1px solid #E6DCBD;
+border-right:1px solid #E6DCBD;
+width:139px;
+}
+#main-nav-current-issue.active a {
+background-color:#FFFFFF;
+border-bottom:1px solid #FFFFFF;
+border-top:medium none #E6DCBD;
+color:#000000;
+}
+#main-nav-current-issue a:hover {
+background-color:#E6DCBD;
+color:#000000;
+}
+#main-nav-current-issue.active a:hover {
+background-color:#FFFFFF;
+}
+#main-nav-online-first a {
+background-color:#F9F6EE;
+border-bottom:1px solid #E6DCBD;
+border-right:1px solid #E6DCBD;
+width:115px;
+}
+#main-nav-online-first.active a {
+background-color:#FFFFFF;
+border-bottom:1px solid #FFFFFF;
+border-top:medium none #E6DCBD;
+color:#000000;
+}
+#main-nav-online-first a:hover {
+background-color:#E6DCBD;
+color:#000000;
+}
+#main-nav-online-first.active a:hover {
+background-color:#FFFFFF;
+}
+#main-nav-archive a {
+background-color:#F9F6EE;
+border-bottom:1px solid #E6DCBD;
+border-right:1px solid #E6DCBD;
+width:135px;
+}
+#main-nav-archive.active a {
+background-color:#FFFFFF;
+border-bottom:1px solid #FFFFFF;
+border-top:medium none #E6DCBD;
+color:#000000;
+}
+#main-nav-archive a:hover {
+background-color:#E6DCBD;
+color:#000000;
+}
+#main-nav-archive.active a:hover {
+background-color:#FFFFFF;
+}
+#main-nav-about a {
+background-color:#F9F6EE;
+border-bottom:1px solid #E6DCBD;
+border-right:1px solid #E6DCBD;
+width:165px;
+}
+#main-nav-about.active a {
+background-color:#FFFFFF;
+border-bottom:1px solid #FFFFFF;
+border-top:medium none #E6DCBD;
+color:#000000;
+}
+#main-nav-about a:hover {
+background-color:#E6DCBD;
+color:#000000;
+}
+#main-nav-about.active a:hover {
+background-color:#FFFFFF;
+}
+#main-nav-submit a, #main-nav-jobs a {
+background-color:#F9F6EE;
+border-bottom:1px solid #E6DCBD;
+border-right:1px solid #E6DCBD;
+width:125px;
+}
+#main-nav-submit.active a {
+background-color:#FFFFFF;
+border-bottom:1px solid #FFFFFF;
+border-top:medium none #E6DCBD;
+color:#000000;
+}
+#main-nav-submit a:hover {
+background-color:#E6DCBD;
+color:#000000;
+}
+#main-nav-submit.active a:hover {
+background-color:#FFFFFF;
+}
+#main-nav-become-fellow a {
+background-color:#F9F6EE;
+border-bottom:1px solid #E6DCBD;
+border-right:1px solid #E6DCBD;
+width:148px;
+}
+#main-nav-become-fellow.active a {
+background-color:#FFFFFF;
+border-bottom:1px solid #FFFFFF;
+border-top:medium none #E6DCBD;
+color:#000000;
+}
+#main-nav-become-fellow a:hover {
+background-color:#E6DCBD;
+color:#000000;
+}
+#main-nav-become-fellow.active a:hover {
+background-color:#FFFFFF;
+}
+#main-nav-subscribe a {
+background-color:#F9F6EE;
+border-bottom:1px solid #E6DCBD;
+border-right:1px solid #E6DCBD;
+width:138px;
+}
+#main-nav-subscribe.active a {
+background-color:#FFFFFF;
+border-bottom:1px solid #FFFFFF;
+border-top:medium none #E6DCBD;
+color:#000000;
+}
+#main-nav-subscribe a:hover {
+background-color:#E6DCBD;
+color:#000000;
+}
+#main-nav-subscribe.active a:hover {
+background-color:#FFFFFF;
+}
+#main-nav-help a {
+background-color:#F9F6EE;
+border-bottom:1px solid #E6DCBD;
+width:101px;
+}
+#main-nav-help.active a {
+background-color:#FFFFFF;
+border-bottom:1px solid #FFFFFF;
+border-top:medium none #E6DCBD;
+color:#000000;
+}
+#main-nav-help a:hover {
+background-color:#E6DCBD;
+color:#000000;
+}
+#main-nav-help.active a:hover {
+background-color:#FFFFFF;
+}
+#main-search p {
+font-size:1.1em;
+font-weight:bold;
+margin:-3px 0 0;
+padding:0;
+text-align:right;
+}
+#main-search a:link {
+background:#FFFFFF none repeat scroll 0 0;
+border-color:-moz-use-text-color #CCCCCC #CCCCCC -moz-use-text-color;
+border-style:none solid solid none;
+border-width:0 1px 1px 0;
+color:#000000 !important;
+float:right;
+padding:4px;
+width:98px;
+}
+#main-search a:visited {
+background:#FFFFFF none repeat scroll 0 0;
+border-color:-moz-use-text-color #CCCCCC #CCCCCC -moz-use-text-color;
+border-style:none solid solid none;
+border-width:0 1px 1px 0;
+color:#000000 !important;
+float:right;
+padding:4px;
+width:98px;
+}
+#main-search a:hover {
+background:#FFFFFF none repeat scroll 0 0;
+border-color:-moz-use-text-color #CCCCCC #CCCCCC -moz-use-text-color;
+border-style:none solid solid none;
+border-width:0 1px 1px 0;
+color:#FF00FF !important;
+float:right;
+padding:4px;
+width:98px;
+}
+#main-search fieldset {
+width:251px !important;
+}
+#sub-nav {
+background:#EEEAD6 url(http://eso-cdn.resources.bmj.com/repository/images/bg-sub-nav.gif) repeat-x scroll center bottom;
+float:left;
+margin:0;
+overflow:hidden;
+padding:0;
+width:808px;
+}
+
+#sub-nav ul {
+display:block;
+margin:0 5px;
+padding:12px 0 10px;
+}
+#sub-nav li {
+display:inline;
+font-size:1.2em;
+margin:0;
+}
+#sub-nav.empty {
+background:#EEEAD6 url(http://eso-cdn.resources.bmj.com/repository/images/bg-sub-nav.gif) repeat-x scroll center bottom;
+height:37px;
+width:808px;
+}
+#sub-nav a {
+background:transparent url(http://eso-cdn.resources.bmj.com/repository/images/bg-sub-nav-left.gif) no-repeat scroll left top;
+border-bottom:0 none;
+cursor:pointer;
+display:block;
+float:left;
+text-decoration:none;
+}
+#sub-nav a span {
+background:transparent url(http://eso-cdn.resources.bmj.com/repository/images/bg-sub-nav-right.gif) no-repeat scroll right top;
+float:left;
+margin:0 5px;
+padding:5px 6px 5px 3px;
+}
+#sub-nav a.active {
+background:transparent url(http://eso-cdn.resources.bmj.com/repository/images/bg-sub-nav-left-on.gif) no-repeat scroll left top;
+display:block;
+float:left;
+}
+#sub-nav a.active span {
+background:transparent url(http://eso-cdn.resources.bmj.com/repository/images/bg-sub-nav-right-on.gif) no-repeat scroll right top;
+float:left;
+margin:0 5px;
+padding:5px 6px 5px 3px;
+}
+#sub-nav li a:active {
+color:#333333;
+font-weight:bold;
+text-decoration:none;
+}
+#sub-nav li a:hover {
+color:#FF00FF;
+font-weight:bold;
+text-decoration:none;
+}
+#sub-nav li a.active:link {
+color:#333333;
+font-weight:bold;
+text-decoration:none;
+}
+#sub-nav li a.active:visited {
+color:#333333;
+font-weight:bold;
+text-decoration:none;
+}
+#sub-nav li a.active:active {
+color:#333333;
+font-weight:bold;
+text-decoration:none;
+}
+#sub-nav li a.active:hover {
+color:#FF00FF;
+font-weight:bold;
+text-decoration:none;
+}
+#sub-nav a.disabled-focus {
+background:transparent url(http://eso-cdn.resources.bmj.com/repository/images/bg-sub-nav-left-on.gif) no-repeat scroll left top;
+display:block;
+float:left;
+}
+#sub-nav a.disabled-focus span {
+background:transparent url(http://eso-cdn.resources.bmj.com/repository/images/bg-sub-nav-right-on.gif) no-repeat scroll right top;
+float:left;
+margin:0 5px;
+padding:5px 6px 5px 3px;
+}
+#sub-nav li a:link {
+color:#333333;
+font-weight:bold;
+text-decoration:none;
+}
+#sub-nav li a:visited {
+color:#333333;
+font-weight:bold;
+text-decoration:none;
+}
+#sub-nav li a:hover {
+color:#FF00FF;
+font-weight:bold;
+text-decoration:none;
+}
+
+#sub-nav li ul li{
+font-size:1em;
+}
+a:link {
+color:#0066CC;
+text-decoration:none;
+}
+a:visited {
+color:#0066CC;
+text-decoration:none;
+}
+a:hover {
+color:#FF00FF;
+text-decoration:none;
+}
+a:active {
+color:#0066CC;
+text-decoration:none;
+}
+
+#register {
+background:transparent url(http://eso-cdn.resources.bmj.com/repository/images/bg-horizontal-dotted.gif) repeat-x scroll left bottom;
+font-family:arial,sans-serif;
+font-size:1.1em;
+font-size-adjust:none;
+font-stretch:normal;
+font-style:normal;
+font-variant:normal;
+font-weight:normal;
+line-height:normal;
+margin-bottom:5px;
+padding-bottom:5px;
+}
+#society-members {
+font-family:arial,sans-serif;
+font-size:1.1em;
+font-size-adjust:none;
+font-stretch:normal;
+font-style:normal;
+font-variant:normal;
+font-weight:normal;
+line-height:normal;
+margin-bottom:5px;
+padding-bottom:5px;
+}
+#access {
+font-family:arial,sans-serif;
+font-size:1.1em;
+font-size-adjust:none;
+font-stretch:normal;
+font-style:normal;
+font-variant:normal;
+font-weight:normal;
+line-height:normal;
+}
+#status {
+background:transparent none repeat scroll 0 0;
+border-bottom:medium none;
+border-top:medium none;
+float:right;
+line-height:1.4em;
+margin-bottom:10px;
+margin-top:5px;
+padding-bottom:5px;
+padding-top:5px;
+width:162px;
+}
+#status #background {
+background:#E4E4E4 none repeat scroll 0 0;
+border-bottom:5px solid #CCCCCC;
+border-top:5px solid #CCCCCC;
+float:right;
+line-height:1.4em;
+margin-bottom:10px;
+margin-top:5px;
+padding-bottom:5px;
+padding-top:5px;
+width:162px;
+}
+
+#rss {
+background:#F1F1F1 url(/site/icons/bg-breadcrumb.gif) repeat-x scroll 0 100%;
+float:right;
+height:20px;
+margin:0;
+padding:3px 10px 0 0;
+text-align:right;
+width:50px;
+}
+
+div.button a.shibboleth {
+background:white url(http://eso-cdn.resources.bmj.com/repository/images/icon-shibboleth.gif) repeat-y scroll right center;
+border:1px solid #000000 !important;
+color:#000000 !important;
+margin-bottom:3px;
+}
+div.button a.previous {
+background:white url(http://eso-cdn.resources.bmj.com/repository/images/icon-previous.gif) repeat-y scroll right center;
+margin-bottom:3px;
+}
+div.button a.next {
+background:white url(http://eso-cdn.resources.bmj.com/repository/images/icon-next.gif) repeat-y scroll right center;
+margin-bottom:3px;
+float:right;
+}
+div.button a.athens {
+width:115px;
+}
+
+div.button a:hover {
+border-bottom:1px solid #CCCCCC;
+}
+
+#status div.shibboleth {
+background:transparent url(http://eso-cdn.resources.bmj.com/repository/images/bg-horizontal-dotted.gif) repeat-x scroll left top;
+margin-top:5px;
+padding-top:5px;
+}
+#status div.athens {
+background:transparent url(http://eso-cdn.resources.bmj.com/repository/images/bg-horizontal-dotted.gif) repeat-x scroll left bottom;
+margin-bottom:5px;
+padding-bottom:5px;
+}
+#status div.referrers {
+clear:both;
+font-family:arial,sans-serif;
+font-size:1.1em;
+font-size-adjust:none;
+font-stretch:normal;
+font-style:normal;
+font-variant:normal;
+font-weight:normal;
+line-height:normal;
+padding-top:4px;
+}
+#status div.user {
+clear:both;
+font-family:arial,sans-serif;
+font-size:1.1em;
+font-size-adjust:none;
+font-stretch:normal;
+font-style:normal;
+font-variant:normal;
+font-weight:normal;
+line-height:normal;
+padding-bottom:4px;
+}
+.username {
+font-weight:bold;
+}
+#social-bookmarking ul li {
+background:transparent none repeat scroll 0 0 !important;
+display:inline;
+}
+div.figure {
+background-color:#999999;
+border-color:#666666;
+border-style:solid;
+border-width:1px 1px 0;
+padding:5px;
+text-align:center;
+width:97%;
+}
+div.links {
+background-color:#E0E0E0;
+border-color:#666666;
+border-style:solid;
+border-width:1px 1px 0;
+text-align:right;
+width:97%;
+}
+div.links ul {
+list-style-image:none;
+list-style-position:outside;
+list-style-type:none;
+margin-bottom:0 !important;
+margin-top:0 !important;
+padding:3px;
+}
+div.links ul li {
+background:transparent none repeat scroll 0 0 !important;
+display:inline;
+list-style-image:none;
+list-style-position:outside;
+list-style-type:none;
+padding-left:2px !important;
+}
+div.caption {
+background:#FFFFFF none repeat scroll 0 0;
+border:none;
+margin-bottom:5px;
+width:99%;
+}
+div.caption p {
+padding-left:3px;
+}
+div.body-text-box {
+background-color:#EEEAD7;
+border:1px solid #D9D1A8;
+padding:5px;
+text-align:left;
+width:97%;
+}
+div.figure table {
+background:#FFFFFF none repeat scroll 0 0;
+border:1px solid #666666;
+font-size:1.2em;
+width:100%;
+}
+div.figure table th {
+background-color:#EEEAD7;
+border-bottom:1px solid #333333;
+border-right:1px solid #666666;
+font-weight:bold;
+padding:3px;
+}
+div.figure table tr td {
+border-bottom:1px solid #999999;
+border-right:1px solid #666666;
+padding:3px;
+}
+#article-nav-header {
+background:#E6DCBD none repeat scroll 0 0;
+border:1px solid #E6DCBD;
+padding-left:5px;
+}
+#article-nav-header h3 {
+margin-top:5px;
+}
+#article-nav-body {
+background:#F9F6EE none repeat scroll 0 0;
+border:1px solid #E6DCBD;
+margin-bottom:10px;
+padding:5px;
+}
+form fieldset {
+border:1px solid #CCCCCC;
+color:#333333;
+margin-bottom:15px;
+margin-right:5px;
+padding:10px;
+}
+form legend {
+color:#333333;
+font-family:arial,sans-serif;
+font-size:1.5em;
+font-size-adjust:none;
+font-stretch:normal;
+font-style:normal;
+font-variant:normal;
+font-weight:bold;
+line-height:normal;
+}
+form h2 {
+font-size:18px;
+margin-top:20px;
+padding:0;
+}
+form p {
+font-size:1.2em;
+font-weight:normal;
+margin-top:0;
+padding:0;
+}
+form ol, form ul {
+color:#333333;
+list-style-type:none;
+margin:-26px;
+padding:0;
+}
+form ol li {
+font-size:12px;
+margin:5px 0;
+padding:2px 0 5px;
+}
+form ol li ul li {
+border-bottom:medium none;
+}
+form h1 {
+margin:0;
+padding:0;
+}
+form ul.title li {
+display:inline;
+margin:0 10px 0 0;
+padding:0;
+}
+li label {
+display:block;
+float:left;
+font-weight:bold;
+margin-left:0.5em;
+text-align:left;
+width:8em;
+}
+form fieldset.save {
+background:#EEEEEE none repeat scroll 0 0;
+border:1px solid #CCCCCC;
+clear:both;
+color:#333333;
+margin-bottom:15px;
+padding:5px;
+text-align:right;
+}
+#content div.top {
+background:transparent url(/site/icons/back.gif) no-repeat scroll 0 3px;
+float:right;
+font-size:1.1em;
+font-weight:bold;
+margin-right:10px;
+margin-top:-20px;
+}
+#content div.top a {
+display:block;
+width:16px;
+}
+#content div.top span {
+margin-left:-9999px;
+}
+#content strong.free {
+color:#FF00FF;
+}
+#content li.dropdown {
+background-image:url(/site/icons/down.gif);
+background-position:0 3px;
+}
+#content table.default {
+border-collapse:collapse;
+margin:10px 0;
+width:100%;
+}
+#content table.default caption {
+display:none;
+}
+#content table.default tr {
+border-spacing:10px;
+}
+#content table.default th {
+border-bottom:1px solid #000000;
+color:#777777;
+font-size:1.2em;
+padding:5px;
+text-align:left;
+}
+#content table.default td {
+font-size:1.2em;
+padding:5px;
+vertical-align:top;
+}
+#content table.default ul {
+margin:0 !important;
+}
+#content table.default li {
+font-size:1em !important;
+}
+#content table.default p {
+font-size:1em !important;
+}
+#content dl.collections dd {
+font-size:1em;
+}
+#content #site-nav {
+width:788px;
+display:inline-block;
+}
+
+#site-nav strong {
+width:100px;
+}
+
+#content #site-nav li {
+font-size:1.1em;
+margin:0;
+line-height:1.6em;
+margin:0;
+padding:0;
+background:none;
+}
+
+
+#custom-doc {
+margin:auto;
+min-width:780px;
+text-align:left;
+width:780px;
+}
+.yui-b {
+position:relative;
+}
+.yui-b {
+}
+#yui-main .yui-b {
+position:static;
+}
+#yui-main {
+width:100%;
+}
+.yui-gb .yui-u, .yui-g .yui-gb .yui-u, .yui-gb .yui-g, .yui-gb .yui-gb, .yui-gb .yui-gc, .yui-gb .yui-gd, .yui-gb .yui-ge, .yui-gb .yui-gf, .yui-gc .yui-u, .yui-gc .yui-g, .yui-gd .yui-u {
+float:left;
+}
+.yui-g .yui-u, .yui-g .yui-g, .yui-g .yui-gb, .yui-g .yui-gc, .yui-g .yui-gd, .yui-g .yui-ge, .yui-g .yui-gf, .yui-gc .yui-u, .yui-gd .yui-g, .yui-g .yui-gc .yui-u, .yui-ge .yui-u, .yui-ge .yui-g, .yui-gf .yui-g, .yui-gf .yui-u {
+float:right;
+}
+.yui-g div.first, .yui-gb div.first, .yui-gc div.first, .yui-gd div.first, .yui-ge div.first, .yui-gf div.first, .yui-g .yui-gc div.first, .yui-g .yui-ge div.first, .yui-gc div.first div.first {
+float:left;
+}
+.yui-g .yui-u, .yui-g .yui-g, .yui-g .yui-gb, .yui-g .yui-gc, .yui-g .yui-gd, .yui-g .yui-ge, .yui-g .yui-gf {
+width:49.1%;
+}
+.yui-gb .yui-u, .yui-g .yui-gb .yui-u, .yui-gb .yui-g, .yui-gb .yui-gb, .yui-gb .yui-gc, .yui-gb .yui-gd, .yui-gb .yui-ge, .yui-gb .yui-gf, .yui-gc .yui-u, .yui-gc .yui-g, .yui-gd .yui-u {
+margin-left:1.99%;
+width:32%;
+}
+.yui-gb .yui-u {
+}
+.yui-gc div.first, .yui-gd .yui-u {
+width:66%;
+}
+.yui-gd div.first {
+width:32%;
+}
+.yui-ge div.first, .yui-gf .yui-u {
+width:74.2%;
+}
+.yui-ge .yui-u, .yui-gf div.first {
+width:24%;
+}
+.yui-g .yui-gb div.first, .yui-gb div.first, .yui-gc div.first, .yui-gd div.first {
+margin-left:0;
+}
+.yui-g .yui-g .yui-u, .yui-gb .yui-g .yui-u, .yui-gc .yui-g .yui-u, .yui-gd .yui-g .yui-u, .yui-ge .yui-g .yui-u, .yui-gf .yui-g .yui-u {
+width:49%;
+}
+.yui-g .yui-gb div.first, .yui-gb .yui-gb div.first {
+}
+.yui-g .yui-gc div.first, .yui-gd .yui-g {
+width:66%;
+}
+.yui-gb .yui-g div.first {
+}
+.yui-gb .yui-gc div.first, .yui-gb .yui-gd div.first {
+}
+.yui-gb .yui-gb .yui-u, .yui-gb .yui-gc .yui-u {
+}
+.yui-g .yui-gb .yui-u {
+}
+.yui-gb .yui-gd .yui-u {
+}
+.yui-gb .yui-gd div.first {
+}
+.yui-g .yui-gc .yui-u, .yui-gb .yui-gc .yui-u {
+margin-right:0;
+width:32%;
+}
+.yui-gb .yui-gc div.first {
+width:66%;
+}
+.yui-gb .yui-ge .yui-u, .yui-gb .yui-gf .yui-u {
+margin:0;
+}
+.yui-gb .yui-gb .yui-u {
+}
+.yui-gb .yui-g div.first, .yui-gb .yui-gb div.first {
+}
+.yui-gc .yui-g .yui-u, .yui-gd .yui-g .yui-u {
+}
+s .yui-gb .yui-gd div.first {
+width:32%;
+}
+.yui-g .yui-gd div.first {
+}
+.yui-ge .yui-g {
+width:24%;
+}
+.yui-gf .yui-g {
+width:74.2%;
+}
+.yui-gb .yui-ge div.yui-u, .yui-gb .yui-gf div.yui-u {
+float:right;
+}
+.yui-gb .yui-ge div.first, .yui-gb .yui-gf div.first {
+float:left;
+}
+.yui-gb .yui-ge .yui-u, .yui-gb .yui-gf div.first {
+}
+.yui-gb .yui-ge div.first, .yui-gb .yui-gf .yui-u {
+}
+.yui-ge div.first .yui-gd .yui-u {
+width:65%;
+}
+.yui-ge div.first .yui-gd div.first {
+width:32%;
+}
+#bd:after, .yui-g:after, .yui-gb:after, .yui-gc:after, .yui-gd:after, .yui-ge:after, .yui-gf:after {
+clear:both;
+content:".";
+display:block;
+height:0;
+visibility:hidden;
+}
+#bd, .yui-g, .yui-gb, .yui-gc, .yui-gd, .yui-ge, .yui-gf {
+}
+.yui-g1 {
+background:transparent url(http://casereports.bmj.com/siteimages/home-box-bg.jpg) repeat-x scroll left top;
+border:1px solid #CEBB80;
+padding:1px 5px 5px;
+}
+.yui-g2 {
+padding:1px 5px 5px;
+}
+.yui-g3 {
+padding:0 5px 5px;
+}
+.ui-tabs-hide {
+display:none !important;
+}
+div.row {
+float:left;
+margin:5px 0;
+overflow:hidden;
+width:808px;
+}
+div.row div {
+background:#FFFFFF none repeat scroll 0 0;
+}
+div.row div.col-full {
+display:inline;
+float:left;
+overflow:hidden;
+width:100%;
+}
+div.row div.col-half {
+display:inline;
+float:left;
+overflow:hidden;
+width:50%;
+}
+div.row div.col-third {
+display:inline;
+float:left;
+overflow:hidden;
+width:33.3%;
+}
+div.row div.col-two-third {
+display:inline;
+float:left;
+overflow:hidden;
+width:66.6%;
+}
+div.row div.col-quarter {
+display:inline;
+float:left;
+overflow:hidden;
+width:25%;
+}
+div.row div.col-sixth {
+display:inline;
+float:left;
+overflow:hidden;
+width:16.6%;
+}
+div.row div.col-left div.body-copy {
+margin:0 5px 0 10px !important;
+}
+div.row div.col-middle div.body-copy {
+margin:0 5px !important;
+}
+div.row div.col-right div.body-copy {
+margin:0 10px 0 5px !important;
+}
+div.color-background {
+background:transparent url(/site/icons/home-box-bg.jpg) repeat-x scroll left top !important;
+border:1px solid #CEBB80;
+height:130px;
+padding:5px;
+}
+div.col-left h1 {
+border-bottom:2px solid #000000;
+height:25px;
+margin-top:0 !important;
+padding:5px;
+}
+div.col-middle h1 {
+border-bottom:2px solid #000000;
+height:25px;
+margin-top:0 !important;
+padding:5px;
+}
+div.col-right h1 {
+border-bottom:2px solid #000000;
+height:25px;
+margin-top:0 !important;
+padding:5px;
+}
+.ui-tabs-nav {
+display:block;
+}
+.ui-tabs-nav {
+border-bottom:4px solid #333333;
+list-style-image:none !important;
+list-style-position:outside !important;
+list-style-type:none !important;
+margin:0 !important;
+padding:0 !important;
+width:100%;
+}
+.ui-tabs-nav:after {
+clear:both;
+content:" ";
+display:block;
+}
+.ui-tabs-nav li {
+background:transparent none repeat scroll 0 0 !important;
+float:left;
+font-weight:bold;
+margin:0;
+padding-left:0 !important;
+padding-right:10px !important;
+}
+.ui-tabs-nav a {
+color:black;
+float:left;
+font-weight:bold;
+padding:5px 10px;
+}
+.ui-tabs-nav a span {
+color:black;
+float:left;
+font-weight:bold;
+padding:0 10px;
+}
+.ui-tabs-nav a {
+background:transparent url(http://casereports.bmj.com/siteimages/body-subnav-button.jpg) repeat-x scroll right top;
+border-left:1px solid #CEBB80;
+border-right:1px solid #CEBB80;
+border-top:1px solid #CEBB80;
+margin:0;
+outline-color:-moz-use-text-color;
+outline-style:none;
+outline-width:0;
+padding-left:0;
+text-decoration:none;
+white-space:nowrap;
+}
+.ui-tabs-nav a:link, .ui-tabs-nav a:visited {
+color:#FFFFFF;
+}
+.ui-tabs-nav .ui-tabs-selected a {
+background:black none repeat-x scroll right top;
+border:1px solid black;
+color:white;
+}
+.ui-tabs-nav .ui-tabs-selected a span {
+color:white;
+}
+.ui-tabs-nav .ui-tabs-selected a:link, .ui-tabs-nav .ui-tabs-selected a:visited, .ui-tabs-nav .ui-tabs-disabled a:link, .ui-tabs-nav .ui-tabs-disabled a:visited {
+cursor:text;
+}
+.ui-tabs-nav a:hover, .ui-tabs-nav a:focus, .ui-tabs-nav a:active, .ui-tabs-nav .ui-tabs-unselect a:hover, .ui-tabs-nav .ui-tabs-unselect a:focus, .ui-tabs-nav .ui-tabs-unselect a:active {
+cursor:pointer;
+}
+.ui-tabs-disabled {
+opacity:0.4;
+}
+.ui-tabs-nav .ui-tabs-disabled a:link, .ui-tabs-nav .ui-tabs-disabled a:visited {
+color:#000000;
+}
+.ui-tabs-panel {
+background:#FFFFFF none repeat scroll 0 0;
+float:left;
+padding:0 10px;
+width:758px;
+}
+* html .ui-tabs-nav {
+display:inline-block;
+}
+:first-child + html .ui-tabs-nav {
+display:inline-block;
+}
+form table td {
+line-height:21px;
+vertical-align:top;
+}
+form table #sinput {
+width:100%;
+}
+form table #sinput #searchInput {
+width:100%;
+}
+#bmjlogo {
+background-image:url(http://eso-cdn.resources.bmj.com/repository/images/bmj.jpg);
+background-repeat:no-repeat;
+height:20px;
+width:37px;
+}
+#bmjlogo span {
+display:none;
+}
+#blogtab {
+background-color:#009AF6;
+border:1px solid #009AF6;
+font-family:"Trebuchet MS",Trebuchet,Verdana,Helvetica,Arial,sans-serif;
+padding:5px;
+}
+#blogtab1 {
+color:white;
+float:left;
+font-size:15px;
+font-weight:bold;
+margin-right:5px;
+}
+#drop-down-widget3 .ui-tabs-panel {
+border:1px solid #009AF6 !important;
+}
+div.body-sub-nav {
+margin:0;
+overflow:hidden;
+padding:0;
+width:100%;
+}
+div.body-sub-nav ul {
+display:block;
+margin:0 !important;
+padding:12px 0 10px;
+}
+div.body-sub-nav li {
+background:transparent none repeat scroll 0 0 !important;
+display:inline;
+font-size:1.2em;
+margin:0;
+}
+div.body-sub-nav.empty {
+height:37px;
+}
+div.body-sub-nav a {
+border-bottom:0 none;
+cursor:pointer;
+display:block;
+float:left;
+text-decoration:none;
+}
+div.body-sub-nav a span {
+background:transparent url(http://casereports.bmj.com/siteimages/body-subnav-button.jpg) repeat-x scroll right top;
+border-left:1px solid #CEBB80;
+border-right:1px solid #CEBB80;
+border-top:1px solid #CEBB80;
+float:left;
+margin:0;
+padding:5px 6px 5px 3px;
+}
+div.body-sub-nav a.active {
+background:transparent none repeat scroll 0 0;
+border-color:#333333;
+display:block;
+float:left;
+}
+div.body-sub-nav a.active span {
+background:#333333 none repeat scroll 0 0;
+border-color:#333333;
+color:#FFFFFF;
+float:left;
+margin:0 5px;
+padding:5px 6px 5px 3px;
+}
+div.body-sub-nav li a:active {
+color:#333333;
+font-weight:bold;
+text-decoration:none;
+}
+div.body-sub-nav li a:hover {
+color:#FF00FF;
+font-weight:bold;
+text-decoration:none;
+}
+div.body-sub-nav li a.active:link {
+color:#333333;
+font-weight:bold;
+text-decoration:none;
+}
+div.body-sub-nav li a.active:visited {
+color:#333333;
+font-weight:bold;
+text-decoration:none;
+}
+div.body-sub-nav li a.active:active {
+color:#333333;
+font-weight:bold;
+text-decoration:none;
+}
+div.body-sub-nav li a.active:hover {
+color:#FF00FF;
+font-weight:bold;
+text-decoration:none;
+}
+div.sub-nav a.disabled-focus {
+display:block;
+float:left;
+}
+div.body-sub-nav a.disabled-focus span {
+float:left;
+margin:0 5px;
+padding:5px 6px 5px 3px;
+}
+div.body-sub-nav li a:link {
+color:#333333;
+font-weight:bold;
+text-decoration:none;
+}
+div.body-sub-nav li a:visited {
+color:#333333;
+font-weight:bold;
+text-decoration:none;
+}
+div.body-sub-nav li a:hover {
+color:#FF00FF;
+font-weight:bold;
+text-decoration:none;
+}
+div.body-sub-nav li.editorschoice {
+background:transparent none repeat scroll 0 0 !important;
+display:inline;
+font-size:1.2em;
+font-weight:bold !important;
+margin:0;
+}
+div.body-sub-nav li.editorschoice {
+border-bottom:0 none;
+cursor:pointer;
+display:block;
+float:left;
+text-decoration:none;
+}
+div.body-sub-nav li span {
+background:transparent url(http://casereports.bmj.com/siteimages/body-subnav-button.jpg) repeat-x scroll right top;
+border-left:1px solid #CEBB80;
+border-right:1px solid #CEBB80;
+border-top:1px solid #CEBB80;
+float:left;
+margin-left:-15px;
+padding:5px 6px 5px 3px;
+}
+#creports-widget1 {
+border-top:4px solid #333333;
+}
+#body-sub-nav {
+margin:0;
+overflow:hidden;
+padding:0;
+width:100%;
+}
+#body-sub-nav ul {
+display:block;
+margin:0;
+padding:12px 0 10px;
+}
+#body-sub-nav li {
+background:transparent none repeat scroll 0 0 !important;
+display:inline;
+font-size:1.2em;
+margin:0;
+}
+#body-sub-nav.empty {
+height:37px;
+}
+#body-sub-nav a {
+border-bottom:0 none;
+cursor:pointer;
+display:block;
+float:left;
+text-decoration:none;
+}
+#body-sub-nav a span {
+background:transparent url(http://casereports.bmj.com/siteimages/body-subnav-button.jpg) repeat-x scroll right top;
+border-left:1px solid #CEBB80;
+border-right:1px solid #CEBB80;
+border-top:1px solid #CEBB80;
+float:left;
+margin:0;
+padding:5px 6px 5px 3px;
+}
+#body-sub-nav a.active {
+background:transparent none repeat scroll 0 0;
+border-color:#333333;
+display:block;
+float:left;
+}
+#body-sub-nav a.active span {
+background:#333333 none repeat scroll 0 0;
+border-color:#333333;
+color:#FFFFFF;
+float:left;
+margin:0 5px;
+padding:5px 6px 5px 3px;
+}
+#body-sub-nav li a:active {
+color:#333333;
+font-weight:bold;
+text-decoration:none;
+}
+#body-sub-nav li a:hover {
+color:#FF00FF;
+font-weight:bold;
+text-decoration:none;
+}
+#body-sub-nav li a.active:link {
+color:#333333;
+font-weight:bold;
+text-decoration:none;
+}
+#body-sub-nav li a.active:visited {
+color:#333333;
+font-weight:bold;
+text-decoration:none;
+}
+#body-sub-nav li a.active:active {
+color:#333333;
+font-weight:bold;
+text-decoration:none;
+}
+#body-sub-nav li a.active:hover {
+color:#FF00FF;
+font-weight:bold;
+text-decoration:none;
+}
+#sub-nav a.disabled-focus {
+display:block;
+float:left;
+}
+#body-sub-nav a.disabled-focus span {
+float:left;
+margin:0 5px;
+padding:5px 6px 5px 3px;
+}
+#body-sub-nav li a:link {
+color:#333333;
+font-weight:bold;
+text-decoration:none;
+}
+#body-sub-nav li a:visited {
+color:#333333;
+font-weight:bold;
+text-decoration:none;
+}
+#body-sub-nav li a:hover {
+color:#FF00FF;
+font-weight:bold;
+text-decoration:none;
+}
+#body-sub-nav li.editorschoice {
+background:transparent none repeat scroll 0 0 !important;
+display:inline;
+font-size:1.2em;
+font-weight:bold;
+margin:0;
+}
+#body-sub-nav li.editorschoice {
+border-bottom:0 none;
+cursor:pointer;
+display:block;
+float:left;
+text-decoration:none;
+}
+#body-sub-nav li span {
+background:transparent url(http://casereports.bmj.com/siteimages/body-subnav-button.jpg) repeat-x scroll right top;
+border-left:1px solid #CEBB80;
+border-right:1px solid #CEBB80;
+border-top:1px solid #CEBB80;
+float:left;
+margin-left:-15px;
+padding:5px 6px 5px 3px;
+}
+#creports-widget1 {
+border-top:4px solid #333333;
+}
+div.latestbox1 {
+display:block;
+float:left;
+font-size:1.2em !important;
+padding:5px 5px 5px 0;
+width:49%;
+}
+div.latestbox1 ul li {
+font-size:1.1em !important;
+}
+div.feeditem {
+padding:5px 5px 5px 0;
+}
+div.latestbox2 {
+display:block;
+float:left;
+font-size:1.2em !important;
+padding:5px 5px 5px 0;
+width:49%;
+}
+div.latestbox2 ul li {
+font-size:1.1em !important;
+}
+img.float-right {
+float:right;
+margin-left:5px;
+margin-right:5px;
+}
+img.float-left {
+float:left;
+margin:0 5px;
+}
+.side-panel-box {
+background:#F9F6EE none repeat scroll 0 0;
+border:1px solid #E6DCBD;
+padding:10px;
+}
+p label {
+font-size:1.2em;
+}
+#red-box-head1 {
+background:#AC262D none repeat scroll 0 0;
+border:1px solid #AC262D;
+color:#FFFFFF;
+display:block;
+font-size:1.2em;
+font-weight:bold;
+margin:10px 0 0;
+padding:5px;
+}
+#red-box {
+background:#FFFFFF none repeat scroll 0 0;
+border:1px solid #AC262D;
+margin:0 0 10px;
+padding:5px;
+text-align:left;
+}
+#red-box img {
+float:right;
+margin-left:15px;
+margin-top:5px;
+}
+#red-box h2 {
+font-size:1.2em !important;
+}
+#red-box ul {
+width:230px;
+}
+#blue-box-head1 {
+background:#0A57A4 none repeat scroll 0 0;
+border:1px solid #0A57A4;
+color:#FFFFFF;
+display:block;
+font-size:1.2em;
+font-weight:bold;
+margin:10px 0 0;
+padding:5px;
+}
+#blue-box {
+background:#FFFFFF none repeat scroll 0 0;
+border:1px solid #0A57A4;
+margin:0 0 10px;
+padding:5px;
+text-align:left;
+}
+#blue-box img {
+float:right;
+margin-left:15px;
+margin-top:5px;
+}
+#blue-box h2 {
+font-size:1.2em !important;
+}
+#blue-box ul {
+width:230px;
+}
+#careers-searchwidget-button a {
+background:#CCCCCC url(http://journals.bmj.com/shared/icons/button-job-search.gif) repeat-x scroll right top;
+display:block;
+height:39px;
+width:157px;
+}
+#careers-searchwidget-button a:hover {
+background:transparent url(http://journals.bmj.com/shared/icons/button-job-search-h.gif) repeat-x scroll left top;
+}
+#careers-searchwidget-button a span {
+display:block;
+left:-9999px;
+position:absolute;
+top:-9999px;
+}
+div.careerssearch {
+background:#FFFFFF none repeat scroll 0 0;
+border-bottom:1px solid #8EB0D5;
+border-left:1px solid #8EB0D5;
+border-top:3px solid #8EB0D5;
+margin:0 0 0 10px !important;
+padding-left:4px;
+}
+div.careerssearch {
+border-color:#8EB0D5;
+}
+
+code {
+font-size:1.2em;
+font-weight:bold;
+}
+
+#footer li {
+border-left:none;
+}
+
+div.col-left h1.journal { background: url(/site/icons/bjo-header-background.jpg) no-repeat top left; height: 45px; margin-top: 0px !important; padding: 5px; color:#FFFFFF; border-bottom:0 none;}	
+
+	div.col-middle h1.journal{ background: url(/site/icons/bjo-header-background.jpg) no-repeat top left; height: 45px; margin-top: 0px !important; padding: 5px; color:#FFFFFF; border-bottom:0 none;}	
+
+	div.col-right h1.journal { background: url(/site/icons/bjo-header-background.jpg) no-repeat top left; height: 45px; margin-top: 0px !important; padding: 5px; color:#FFFFFF; border-bottom:0 none;}
+
+
+#pageid-home #content div.body-copy {
+margin:0;
+
+}
+
+#site-breadcrumbs {
+	font-size:1.1em;
+	clear:left;
+}
+
+ul#site-breadcrumbs {
+background:#F1F1F1 url(/site/icons/bg-breadcrumb.gif) repeat-x scroll 0 100%;
+color:#555555;
+float:left;
+height:19px;
+margin:0;
+padding:2px 0 2px 10px;
+width:738px;
+}
+
+ul#site-breadcrumbs  li {
+        display: inline;
+		background:none;
+		font-size:1em;
+		padding-left:0;
+}
+
+#pageid-home #content #main-body {
+width:788px;
+margin-top:1em;
+}
+
+#footer div.legal li a {
+color:#0066CC;
+}
+
+/* citations */
+
+.cit {
+font-size:1.2em;
+}
+
+#content .cit-title-note,
+#content .cit .cit-metadata .cit-title,
+#content  ul.cit-auth-list, 
+#content  ul.cit-views,
+#content .cit cite,
+#content .cit .cit-metadata .cit-section, 
+#content .cit .cit-metadata .cit-first-element   {
+margin-left:0;
+padding-left:0;
+}
+
+#content .cit ul li, #content .cit ul {
+margin:0;
+padding:0;
+background:none;
+}
+
+#content ul.cit-auth-list,
+#content ul.cit-views{
+margin-top:0.25em;
+padding-left:0;
+display:block;
+}
+
+#content ul.cit-auth-list li,
+#content ul.cit-views li{
+background:none;
+}
+
+#content .cit .cit-views li a {
+background-image:none;
+padding-left:0;
+padding-right:0;
+}
+
+.cit .cit-metadata .cit-section {
+font-size:1em;
+}
+
+.cit .cit-metadata .cit-title, .cit .cit-metadata .cit-title-note {
+font-size:1em;
+}
+
+#content ul.cit-list {
+margin-top:1em;
+}
+
+span.slug-vol,
+span.cit-vol {
+font-weight:bold;
+}
+
+span.cit-sep{
+font-weight:normal;
+}
+
+span.cit-sep-after-list-item-article-variants {
+padding-right:4px;
+}
+
+.cit .cit-extra span.cit-sep {
+color:#0066CC;
+font-size:1em;
+font-weight:normal;
+margin-left:0;
+padding-left:0;
+padding-top:0;
+text-transform:uppercase;
+}
+
+.cit a {
+font-weight:normal;
+}
+
+
+.site-title,.cit-jnl-abbrev {
+font-style:italic;
+}
+
+
+#main-nav-online-first a { width:115px;}
+#main-nav-current-issue a { width:119px;}
+#main-nav-archive a { width:115px;}
+#main-nav-about a { width:115px;}
+#main-nav-submit a { width:135px;}
+#main-nav-subscribe a { width:118px;}
+#main-nav-help a { width:85px;}
+
+#main-search a:link { background: #fff;}
+#main-search a:visited { background: #fff;}
+#main-search a:hover { background: #fff;}
+
+#sub-nav ul  ul{
+display:inline;
+margin:0;
+padding:0;
+}
+
+#pageid-rss #sub-nav a#rss-tab  span {
+background:transparent url(http://eso-cdn.resources.bmj.com/repository/images/bg-sub-nav-right-on.gif) no-repeat scroll right top;
+float:left;
+margin:0 5px;
+padding:5px 6px 5px 3px;
+}
+
+#pageid-rss #sub-nav a#rss-tab  {
+color:#333333;
+font-weight:bold;
+text-decoration:none;
+background:transparent url(http://eso-cdn.resources.bmj.com/repository/images/bg-sub-nav-left-on.gif) no-repeat scroll left top;
+display:block;
+float:left;
+}
+
+#pageid-futurecontents #sub-nav a#future-tab  span {
+background:transparent url(http://eso-cdn.resources.bmj.com/repository/images/bg-sub-nav-right-on.gif) no-repeat scroll right top;
+float:left;
+margin:0 5px;
+padding:5px 6px 5px 3px;
+}
+
+#pageid-futurecontents #sub-nav a#future-tab  {
+color:#333333;
+font-weight:bold;
+text-decoration:none;
+background:transparent url(http://eso-cdn.resources.bmj.com/repository/images/bg-sub-nav-left-on.gif) no-repeat scroll left top;
+display:block;
+float:left;
+}
+
+#pageid-supplements #sub-nav a#suppl-tab  span {
+background:transparent url(http://eso-cdn.resources.bmj.com/repository/images/bg-sub-nav-right-on.gif) no-repeat scroll right top;
+float:left;
+margin:0 5px;
+padding:5px 6px 5px 3px;
+}
+
+#pageid-supplements #sub-nav a#suppl-tab  {
+color:#333333;
+font-weight:bold;
+text-decoration:none;
+background:transparent url(http://eso-cdn.resources.bmj.com/repository/images/bg-sub-nav-left-on.gif) no-repeat scroll left top;
+display:block;
+float:left;
+}
+
+#pageid-collections #sub-nav a#collection-tab  span {
+background:transparent url(http://eso-cdn.resources.bmj.com/repository/images/bg-sub-nav-right-on.gif) no-repeat scroll right top;
+float:left;
+margin:0 5px;
+padding:5px 6px 5px 3px;
+}
+
+#pageid-collections #sub-nav a#collection-tab  {
+color:#333333;
+font-weight:bold;
+text-decoration:none;
+background:transparent url(http://eso-cdn.resources.bmj.com/repository/images/bg-sub-nav-left-on.gif) no-repeat scroll left top;
+display:block;
+float:left;
+}
+#pageid-report #sub-nav a#mostread-tab  span {
+background:transparent url(http://eso-cdn.resources.bmj.com/repository/images/bg-sub-nav-right-on.gif) no-repeat scroll right top;
+float:left;
+margin:0 5px;
+padding:5px 6px 5px 3px;
+}
+
+#pageid-report #sub-nav a#mostread-tab  {
+color:#333333;
+font-weight:bold;
+text-decoration:none;
+background:transparent url(http://eso-cdn.resources.bmj.com/repository/images/bg-sub-nav-left-on.gif) no-repeat scroll left top;
+display:block;
+float:left;
+}
+
+.pagetype-eletters #sub-nav a#letter-tab  span {
+background:transparent url(http://eso-cdn.resources.bmj.com/repository/images/bg-sub-nav-right-on.gif) no-repeat scroll right top;
+float:left;
+margin:0 5px;
+padding:5px 6px 5px 3px;
+}
+
+.pagetype-eletters #sub-nav a#letter-tab  {
+color:#333333;
+font-weight:bold;
+text-decoration:none;
+background:transparent url(http://eso-cdn.resources.bmj.com/repository/images/bg-sub-nav-left-on.gif) no-repeat scroll left top;
+display:block;
+float:left;
+}
+#content div.body-copy {
+margin:10px 0 10px 10px;
+}
+
+
+/* for download to citation manager page */
+#pageid-citmgr .cit .cit-metadata .cit-section,
+#pageid-citmgr .cit .cit-metadata .cit-title,
+#pageid-citmgr #content ul.cit-auth-list,
+#pageid-citmgr #content ul.cit-views,
+#pageid-citmgr .cit cite {
+margin-left:0;
+padding-left:10px;
+}
+#pageid-citmgr #col-2 .sidebar ul.citmgr-formats li a {
+font-size:1.2em;
+}
+#pageid-citmgr #col-2 .sidebar ul.citmgr-formats li a.download-locally {
+font-size:1em;
+}
+
+/* temporary hide the unwanted text in title */
+.cit .xref-bibr {
+display:none;
+}
+
+#pageid-report .cit .cit-views {
+margin:0.25em 0;
+padding-left:0;
+display:inline-block;
+}
+
+#pageid-report #content-block ol.cit-list{
+width:480px;
+list-style-position:outside;
+margin-left: 0;
+padding-left: 3em;
+list-style-type:decimal;
+}
+
+#pageid-report #content-block ol.cit-list li.cit {
+margin:.75em 0;
+padding:0;
+
+}
+
+#pageid-report #content-block ol.cit-list li.cit div.cit-metadata {
+display:block;
+}
+
+div.hw-gen-page #content-block p.affiliation-list-reveal a{
+margin-left:3px;
+}
+
+div#pageid-error #content-block h1 {
+font-family:arial,sans-serif;
+font-size:2.1em;
+font-weight:bold;
+}
+
+div#pageid-error #content-block p {
+font-family:arial,sans-serif;
+font-size:1.2em;
+}
+#pageid-home div.row div{
+background:none;
+}
+#pageid-home div.row div p {
+        display: block;
+	margin-bottom:2px;
+}
+	
+div#pageid-data-supp #content-block div.auto-clean *{
+font-size:15px;
+}
+#pageid-search-results #content ul.cit-auth-list, #content ul.cit-views {
+	display:inline; /* access icon inline */
+}
+#pageid-search-results #content .cit .cit-extra span{
+        padding-left:0; /* access icon inline */
+	padding-top:0;
+}
+#pageid-search-results #content .creative-commons span {
+	font-size:1em;
+	font-weight:bold;
+	color:#222222;
+	padding-left:3px;
+	margin-left:3px;
+}
+#pageid-search-results #content .creative-commons span.cme-version {
+	font-weight:normal;
+	color:#0066cc;
+	padding-left:0px;
+	margin-left:0px;
+	text-transform:none;
+}
+
+/* unlocked icon in related articles section*/
+div#related .cit .cit-extra .cit-flags,div#related .cit .cit-extra .open-access-note {
+	margin: 0;
+	padding: 0;
+}
+	
+#pageid-error #header {
+float:none;
+}
+
+#pageid-error #content-block {
+float:none;
+clear:both;
+margin:1em;
+}
+#pageid-search-results #content .cit .cit-extra span.cpd
+{
+font-size:1.1em;
+margin-left:0;
+text-transform:none;
+color:#000000;
+}
+#pageid-search-results #content .cit .cit-extra .cpd-citation-link a{
+text-transform:none;
+font-size:1.1em;
+}
+
+#pageid-search-results #content .cit .cit-extra span.cpd-citation-link{
+margin-left:0;
+padding-left:0;
+}
+#pageid-search-results #content .cit .cit-extra span.cpd-citation-link a {
+padding-left:0.5em;
+}
+
+#global-body div.adbox {
+width:160px;
+}
+
+#col-3 #global-body {
+position:relative;
+}
+
+#pageid-articleusage tr.tr_header + tr.tr_totalyears + tr.tr_monthtodate {
+    display: none;
+}

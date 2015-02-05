@@ -1,0 +1,25 @@
+#content-block div#disqus_thread {
+    border-top: 1px solid #AAAAAA;
+   margin: 1em 0 0;
+   padding-top: 0.5em;
+}
+
+#content .abstract-view span.corresp-label {
+padding-bottom:10px;
+}
+#main-nav #main-nav-online-first a{
+width:117px;
+}
+#main-nav #main-nav-submit a {
+width:125px;
+}
+#main-nav #main-nav-about a {
+width:145px;
+}
+#main-nav #main-nav-archive a{
+width: 90px;
+}
+#main-nav #main-nav-help a{
+width: 90px;
+}
+
